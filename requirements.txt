@@ -1,0 +1,12 @@
+ollama
+pydantic
+python-dotenv
+requests
+chromadb
+langchain_community
+langchain_text_splitters
+langchain_huggingface
+langchain_chroma
+sentence_transformers
+langchain_ollama==1.0.1
+gradio
