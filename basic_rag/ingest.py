@@ -19,7 +19,7 @@ EMBEDDING_MODEL = "qwen3-embedding:0.6b"
 
 DB_NAME = str(Path(__file__).parent / "chroma_db")
 
-KNOWLEDGE_BASE_DIR = Path(__file__).parent / "knowledge-base"
+KNOWLEDGE_BASE_DIR = Path(__file__).parent.parent / "knowledge-base"
 
 AVERAGE_CHUNK_SIZE = 1000
 
