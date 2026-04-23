@@ -169,6 +169,7 @@ if __name__ == "__main__":
     chunk_utils.save_index_store("index_store.json", index_store)
 
     print("Ingestion complete!")
+    
 
     
 
