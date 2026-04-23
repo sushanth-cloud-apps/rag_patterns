@@ -57,4 +57,4 @@ At Insurellm, we are committed to the continuous improvement of Rellm. Our roadm
   - Release of a community platform for Rellm users to exchange insights, tips, and best practices.
   - Launch of Rellm 2.0, featuring enhanced user interface and premium features based on user feedback.
 
-Experience the future of reinsurance with Rellm, where innovation meets reliability. Let Insurellm help you navigate the complexities of the reinsurance market smarter and faster.
+Experience the future of reinsurance with Rellm, where innovation meets reliability. Let Insurellm help you navigate the complexities of the reinsurance market smarter and faster. updated again oncemore

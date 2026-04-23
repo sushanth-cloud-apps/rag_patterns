@@ -4,9 +4,13 @@ python-dotenv
 requests
 chromadb
 langchain_community
+langchain_experimental
+langchain_ollama
 langchain_text_splitters
 langchain_huggingface
 langchain_chroma
 sentence_transformers
+unstructured[md,docx,pptx]
 langchain_ollama==1.0.1
 gradio
+pathlib
